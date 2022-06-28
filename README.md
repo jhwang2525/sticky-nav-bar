@@ -1,4 +1,4 @@
-## sticky-nav-bar
+## Sticky-Nav-Bar
 
 - Scroll down to see Sticky nav bar
 
